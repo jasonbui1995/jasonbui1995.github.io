@@ -30,6 +30,9 @@ BODY
 body {
   background: #eeefff;
 }
+nav {
+  text-align: center;
+}
 nav li {
   display: inline-block;
 }
