@@ -42,7 +42,7 @@ CONTACT
 *********************************/
 #info {
   text-align: center;
-  padding: 0 10px;
+  list-style: none;
   line-height: 0 auto;
   color: #999;
 }
