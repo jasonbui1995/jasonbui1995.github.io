@@ -7,3 +7,7 @@
     padding: 0 10px;
     line-height: 0 auto;
 }
+header, header:visited {
+  color: #000000;
+  text-decoration: none;
+}
