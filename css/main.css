@@ -57,3 +57,9 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #D3D3D3;
 }
+/********************************
+FORMATTING
+*********************************/
+img { 
+  max-width: 100%; 
+}
