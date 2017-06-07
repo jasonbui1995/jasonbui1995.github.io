@@ -9,6 +9,14 @@
     padding: 0 10px;
     line-height: 0 auto;
 }
+#aboutTitle {
+  color: #000000;
+  text-decoration: none;
+}
+#contactTitle {
+  color: #000000;
+  text-decoration: none;
+}
 nav a, nav a:visited {
   color: #000000;
   text-decoration: none;
