@@ -1,6 +1,9 @@
 /********************************
 HEADER
 *********************************/
+header {
+  float: left
+}
 #logo {
   text-align: center;
   margin: 0 auto;
