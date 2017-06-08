@@ -17,6 +17,7 @@ h1 {
   font-family: 'Lato', sans-serif;
   line-height: 0.5em;
   font-weight: normal;
+  margin: 0 0 1em 0;
 }
 h2 {
   line-height: 0.5em;
@@ -67,6 +68,9 @@ propic {
 }
 #aboutMe {
   padding: 0 30% 0;
+}
+h3 {
+  margin: 0 0 1em 0;
 }
 /********************************
 CONTACT
