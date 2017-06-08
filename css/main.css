@@ -100,15 +100,15 @@ CONTACT
 .phone a.selected, .phone a:hover {
   color: #D3D3D3;
 }
-.email a {
+.mail a {
   font-weight: 600;
   padding: 15px 35px;
 }
-.email a, .email a:visited {
+.mail a, .mail a:visited {
   color: #000000;
   text-decoration: none;
 }
-.email a.selected, .email a:hover {
+.mail a.selected, .mail a:hover {
   color: #D3D3D3;
 }
 .facebook a {
