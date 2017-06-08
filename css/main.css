@@ -73,6 +73,8 @@ CONTACT
   list-style: none;
   line-height: 0 auto;
   color: #999;
+  padding: 10px 0;
+  margin: 20px 0 0;
 }
 #contactTitle {
   color: #000000;
