@@ -82,3 +82,9 @@ FORMATTING
 img { 
   max-width: 100%; 
 }
+.propic {
+  border-radius: 100%;
+  margin: 0 auto 30px;
+  max-width: 30%;
+  display: block;
+}
