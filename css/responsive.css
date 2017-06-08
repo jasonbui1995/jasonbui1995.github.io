@@ -1,3 +1,167 @@
 @media screen and (min-width: 480px) {
-  
+  /********************************
+HEADER
+*********************************/
+header {
+  float: left;
+  width: 100%;
+  margin: 1% 0 30px 0;
+  padding: 5px 0 0;
+}
+#logo {
+  text-align: center;
+  margin: 0 auto;
+  color: #000000;
+  text-decoration: none;
+}
+h1 {
+  font-family: 'Lato', sans-serif;
+  line-height: 0.5em;
+  font-weight: normal;
+  margin: 0 0 1em 0;
+}
+h2 {
+  line-height: 1em;
+  font-weight: normal;
+  font-size: 1.3em;
+  margin: -15px 0 0;
+}
+/********************************
+BODY
+*********************************/
+body {
+  background: #eeefff;
+}
+nav ul {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+nav a {
+  font-weight: 900;
+  padding: 15px 35px;
+}
+nav a, nav a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+nav a.selected, nav a:hover {
+  color: #D3D3D3;
+}
+/********************************
+FOOTER
+*********************************/
+footer {
+  text-align: center;
+  margin: 50px auto;
+}
+/********************************
+ABOUT
+*********************************/
+#aboutTitle {
+  color: #000000;
+  text-decoration: none;
+}
+propic {
+  text-align: center;
+}
+#aboutMe {
+  padding: 0 30% 0;
+}
+h3 {
+  margin: 0 0 1em 0;
+}
+/********************************
+CONTACT
+*********************************/
+#info {
+  text-align: center;
+  list-style: none;
+  line-height: 0 auto;
+  color: #999;
+  padding: 10px 0;
+  margin: 20px 0 50px;
+  text-decoration: none;
+  font-weight: 600;
+}
+#contactTitle {
+  color: #000000;
+  text-decoration: none;
+}
+.phone a {
+  display: inline-block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+  background-image: url('../img/phone.png');
+}
+.phone a, .phone a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+.phone a.selected, .phone a:hover {
+  color: #D3D3D3;
+}
+.mail a {
+  display: inline-block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+  background-image: url('../img/mail.png');
+}
+.mail a, .mail a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+.mail a.selected, .mail a:hover {
+  color: #D3D3D3;
+}
+.facebook a {
+  display: inline-block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+  background-image: url('../img/facebook.png');
+}
+.facebook a, .facebook a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+.facebook a.selected, .facebook a:hover {
+  color: #D3D3D3;
+}
+.twitter a {
+  display: inline-block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+  background-image: url('../img/twitter.png');
+}
+.twitter a, .twitter a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+.twitter a.selected, .twitter a:hover {
+  color: #D3D3D3;
+}
+/********************************
+FORMATTING
+*********************************/
+img { 
+  max-width: 100%; 
+}
+.propic {
+  border-radius: 100%;
+  margin: 0 auto 30px;
+  max-width: 30%;
+  display: block;
+}
 }
