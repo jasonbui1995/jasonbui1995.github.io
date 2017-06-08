@@ -36,9 +36,6 @@ nav ul {
   padding: 10px 0;
   margin: 20px 0 0;
 }
-nav li {
-  display: inline-block;
-}
 nav a {
   font-weight: 900;
   padding: 15px 35px;
