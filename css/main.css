@@ -48,6 +48,13 @@ nav a.selected, nav a:hover {
   color: #D3D3D3;
 }
 /********************************
+Section
+*********************************/
+section {
+  text-align: center;
+  margin: 50px auto;
+}
+/********************************
 FOOTER
 *********************************/
 footer {
