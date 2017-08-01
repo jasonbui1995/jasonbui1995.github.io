@@ -50,7 +50,7 @@ nav a.selected, nav a:hover {
 /********************************
 Section
 *********************************/
-section {
+#resume {
   text-align: center;
   margin: 50px auto;
 }
