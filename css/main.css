@@ -54,9 +54,9 @@ Section
   text-align: left;
   margin: 50px;
 }
-#resume li {
+#resume p{
   margin: 0;
-  padding: 0;
+  padding: 0 0 0;
 }
 /********************************
 FOOTER
