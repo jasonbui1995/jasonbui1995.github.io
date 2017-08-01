@@ -52,11 +52,12 @@ Section
 *********************************/
 #resume {
   text-align: left;
-  margin: 50px;
+  margin: 0 50px 0 50px;
 }
 #resume p{
   margin: 0;
   padding: 0 0 0;
+  font-weight: bold;
 }
 /********************************
 FOOTER
